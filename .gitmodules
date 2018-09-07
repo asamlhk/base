@@ -1,0 +1,12 @@
+[submodule "src/app/apply"]
+	path = src/app/apply
+	url = https://github.com/asamlhk/apply.git
+[submodule "src/app/mnr"]
+	path = src/app/mnr
+	url = https://github.com/asamlhk/mnr.git
+[submodule "src/app/propose"]
+	path = src/app/propose
+	url = https://github.com/asamlhk/propose.git
+[submodule "src/app/core"]
+	path = src/app/core
+	url = https://github.com/asamlhk/core.git
